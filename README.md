@@ -7,5 +7,5 @@ Els mòduls que he fet són:
 - [M02: Bases de Dades](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M02-BasesDeDades)
 - [M03: Programació](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M03-Programacio)
 - [M04: Llenguatges de Marques](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M04-LlenguatgesDeMarques)
-- [FOL](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M12-FOL)
-- [EIE](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M13-EiE)
+- [FOL: Formació i Orientació Laboral](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M12-FOL)
+- [EIE: Empresa i Iniciativa Emprenedora](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M13-EiE)
