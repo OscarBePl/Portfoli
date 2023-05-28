@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>PortAventura - Botigues</title>
+        <link>https://www.portaventuraworld.com/ca/botigues</link>
+        <description>Informació sobre les botigues del parc PortAventura</description>
+        <category>Botigues</category>
+        <lastBuildDate>Fri, 17 Feb 2023 19:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>obellerino@alumnat.copernic.cat (Oscar Bellerino)</managingEditor>
+        <skipDays>
+            <day>Monday</day>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+        </skipDays>
+        <item>
+            <title><![CDATA[<h2>Cal Caramel</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/botigues/dolcos-mes</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/c8bf4d72589c14e9bd4944597faaa1083ba3488fdad7cde7288415989eb653c2.png">
+             Alguna vegada has somiat en un món de dolços i llaminadures? Doncs és ben real! A Cal Caramel hi trobaràs un assortiment tan gran de llaminadures que no sabràs quines triar.]]>
+            </description>
+            <category>PortAventura Park: Mediterrània/Llaminadures</category>
+            <guid>https://www.portaventuraworld.com/ca/botigues/dolcos-mes</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>La Botigueta</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/botigues/la-botigueta</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/b4c8d4f8b2cb1ada28bccbb7631fb9cba6ab1c3e1558e90bccab720d8cd298a3.jpg">
+             La nostra botiga especialitzada en fotografia i electrònica. Perfecta per si t’has deixat alguna cosa a casa o a l’hotel! També hi trobaràs altres articles per si et ve de gust emportar-te un record de PortAventura World. A La Botigueta hi ha de tot.]]>
+            </description>
+            <category>PortAventura Park: Mediterrània/Fotografia</category>
+            <guid>https://www.portaventuraworld.com/ca/botigues/la-botigueta</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Mas Fonoll</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/botigues/mas-fonoll</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/cb891a0e026b4b0a11d99ca5d39bec568688ea4e1fc3b659dd3b27a8e923d8fa.jpg">
+             El dia s’acaba i encara no has comprat el que tenies previst: el record que vols portar als teus nebots, cosins o amics. Tranquil! Mas Fonoll és la teva salvació.]]>
+            </description>
+            <category>PortAventura Park: Mediterrània/Souvenirs</category>
+            <guid>https://www.portaventuraworld.com/ca/botigues/mas-fonoll</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Records de PortAventura</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/botigues/records-de-portaventura</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/e37401c7946134aa7c760ce7021be005f2eba81de486959e500280af9e7afc51.jpg">
+             Davant del llac de PortAventura hi ha un lloc ple de màgia on pots aconseguir els records més especials d’aquesta experiència. I no hi falta ningú! Ni en Woody, ni l’Elmo, ni cap dels personatges de SésamoAventura.]]>
+            </description>
+            <category>PortAventura Park: Mediterrània/Souvenirs</category>
+            <guid>https://www.portaventuraworld.com/ca/botigues/records-de-portaventura</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+    </channel>
+
+</rss> 

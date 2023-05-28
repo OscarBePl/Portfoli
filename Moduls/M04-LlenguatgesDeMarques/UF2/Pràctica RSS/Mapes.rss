@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>PortAventura - Mapes</title>
+        <link>https://www.portaventuraworld.com/ca/zones</link>
+        <description>Informació sobre les zones del parc PortAventura</description>
+        <category>Mapes/Zones</category>
+        <lastBuildDate>Fri, 17 Feb 2023 19:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>obellerino@alumnat.copernic.cat (Oscar Bellerino)</managingEditor>
+
+        <item>
+            <title><![CDATA[<h2>Polynesia</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/polynesia</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/e4fc042a79f71f456b0469eb4025b9b255ede2f19bd32fe35435ea2ae6454b4b.jpg">
+             Explora-la i gaudeix de les experiències més divertides i exòtiques de la jungla, i d’atraccions plenes d’emocions. Sent al cos la fúria d’un volcà en erupció, resisteix les tempestes més ferotges de la jungla i viu un munt d’emocions a les terres de l’oceà Pacífic.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/polynesia</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>China</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/china</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/3773b788c95038e268f20c642d2ea027883c6d757a166bc423c3635771b7ac5c.jpg">
+             Viu en primera persona les experiències més impressionants a Shambhala o al temible Dragon Khan. Entra a totes les botigues, assaboreix els plats dels restaurants fabulosos que hi ha, emociona’t amb els espectacles i diverteix-te com mai a les atraccions.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/china</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Far West</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/far-west</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/3bddb9deecd51dd17c1a5d680b5eec5c9beb147ec3bc8dcd844ee1754655f2e0.jpg">
+             Experimenta com un autèntic vaquer de l’oest llunyà a l’àrea de Far West, inspirada en la cultura nord-americana. Viatja a un poble perdut de l’oest llunyà.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/far-west</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Mediterrània</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/mediterrania</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/f848832846c90b70f46272ab34766d8997c3ee0a74e3a65f4b2bb52726953431.jpg">
+             Inspirada en un poble de pescadors, acull diversió i tradició en la mateixa mesura. Deixa’t seduir pel clima càlid, la gent agradable i el bon menjar del litoral mediterrani.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/mediterrania</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>México</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/mexico</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/90ad7c2fa37953d2122d7f83a947ec7f8b0ed96439c173412c3800036e177721.jpg">
+             Deixa’t portar per les atraccions impressionants de l’àrea de México a PortAventura Park, i pel ritme dels seus famosos mariachis. Connecta amb la cultura mexicana i forma’n part tan bon punt travessis la frontera d’aquest món.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/mexico</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>SésamoAventura</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/portaventura/sesamo-aventura</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/6efb48e1b46bee15a6912fa9dc696a3955fbb0271f13cdd0e1ee490ee7c61c56.jpg">
+             Vine i descobreix SésamoAventura, l’àrea de PortAventura World dedicada als més petits; i coneix els personatges fabulosos que hi viuen. Deixa’t sorprendre per aquest lloc fantàstic, totalment ambientat en el món de Sesame Street.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/portaventura/sesamo-aventura</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+    </channel>
+
+</rss> 

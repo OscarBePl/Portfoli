@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>PortAventura - Restaurants</title>
+        <link>https://www.portaventuraworld.com/ca/restaurants</link>
+        <description>Informació sobre els restaurants del parc PortAventura</description>
+        <category>Restaurants</category>
+        <lastBuildDate>Fri, 17 Feb 2023 19:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>obellerino@alumnat.copernic.cat (Oscar Bellerino)</managingEditor>
+        <skipHours>
+            <hour>11</hour>
+            <hour>12</hour>
+            <hour>13</hour>
+            <hour>14</hour>
+            <hour>15</hour>
+            <hour>16</hour>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+            <hour>00</hour>
+            <hour>1</hour>
+        </skipHours>
+        <item>
+            <title><![CDATA[<h2>The Iron Horse</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/restaurants/the-iron-horse</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/ab4e9b0f4f46de8b5cfdd52b3a1cc50807095501837c748ddcf415cd8dfa9f9f.jpg">
+             En aquest restaurant de Far West tens el privilegi de poder degustar els famosos plats de Madame Lilie, una gran cuinera que s’ha fet un nom en el món de la gastronomia a Penitence, i a la resta del comtat. T’hi espera la deliciosa cuina americana: costelles de porc, panotxes, hamburgueses i més!]]>
+            </description>
+            <category>PortAventura Park: Far West/Cuina americana: amanida Cèsar, hamburgueses, costelles de porc i steaks/De taula/Menjar apte per a celíacs/Menú adult, menú infantil i menú vegà/vegetarià</category>
+            <guid>https://www.portaventuraworld.com/ca/restaurants/the-iron-horse</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Sichuan</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/restaurants/sichuan</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/65b9d6405b50fc2236d92ac920164938c2a89c47594a3b5ead3d033e7a6e8b7f.jpg">
+             La gastronomia xinesa és tan sorprenent com el seu país de procedència. Plena de colors i aromes apassionants que delecten el paladar. A Sichuan, et portem el millor de l’Àsia Oriental a PortAventura Park: arròs, rotlles de primavera, amanides… Deixa’t sorprendre.]]>
+            </description>
+            <category>PortAventura Park: China/Cuina asiàtica, amanides i postres/Autoservei/Menjar no apte per a celíacs/Menú adult i menú infantil</category>
+            <guid>https://www.portaventuraworld.com/ca/restaurants/sichuan</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>La Cocina de Epi</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/restaurants/la-cocina-de-epi</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/9582bc60eadc092796e6a80cce7989904e938f05d0b346b2bd0f4f7487cf3103.jpg">
+             Coneixies les habilitats culinàries de l’Epi? Segur que no. Doncs va ser a PortAventura on va decidir obrir el seu restaurant de pizzes, pasta, hamburgueses, pollastre i amanides. I ves a saber. Potser és el primer de molts altres restaurants i es convertirà en una gran estrella de la gastronomia.]]>
+            </description>
+            <category>PortAventura Park: SésamoAventura/Pizza, pasta, hamburgueses, pollastre, amanides/Snack Bar/Menjar apte per a celíacs</category>
+            <guid>https://www.portaventuraworld.com/ca/restaurants/la-cocina-de-epi</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Racó de Mar</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/restaurants/raco-de-mar</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/35ffdb914156b8220a301ccdfc0b21739555b4e670c920dfc1228b1ba43947f9.jpg">
+             La dieta mediterrània és famosa per ser saludable, però també per ser deliciosa! A Racó de Mar hem seleccionat els grans sabors del Mediterrani per oferir-te un gran viatge gastronòmic: des del socarrat d’una paella valenciana fins a una orada al forn o una pizza amb els ingredients més frescos. Nyam, nyam!]]>
+            </description>
+            <category>PortAventura Park: Mediterrània/Cuina mediterrània: amanides, arrossos, pizzes i pasta/De taula/Menjar apte per a celíacs/Menú adult i menú infantil</category>
+            <guid>https://www.portaventuraworld.com/ca/atraccions/raco-de-mar</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+    </channel>
+
+</rss> 

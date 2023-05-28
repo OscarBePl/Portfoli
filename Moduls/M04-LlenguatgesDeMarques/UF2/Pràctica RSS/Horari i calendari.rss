@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>Port Aventura - Horari i calendari</title>
+        <link>https://www.portaventuraworld.com/ca/horaris-calendari</link>
+        <description>Informació sobre el calendari del parc Port Aventura</description>
+        <category>Horari/Calendari</category>
+        <lastBuildDate>Fri, 17 Feb 2023 19:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>obellerino@alumnat.copernic.cat (Oscar Bellerino)</managingEditor>
+        <skipDays>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <item>
+            <title><![CDATA[<h2>Horari i calendari</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/horaris-calendari</link>
+            <description><![CDATA[<img src="https://img.freepik.com/fotos-premium/representacion-3d-calendario-escritorio-ano-2023_476612-21395.jpg">
+              Horari i calendari del parc Port Aventura, informa't sobre els dies i le hores en que estarà obert el parc.]]>
+            </description>
+            <guid>https://www.portaventuraworld.com/ca/horaris-calendari</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+    </channel>
+
+</rss>

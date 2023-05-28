@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+    <channel>
+        <title>PortAventura - Atraccions</title>
+        <link>https://www.portaventuraworld.com/ca/atraccions</link>
+        <description>Informació sobre les atraccions del parc PortAventura</description>
+        <category>Atraccions</category>
+        <lastBuildDate>Fri, 17 Feb 2023 19:00:00 +0100</lastBuildDate>
+        <language>ca</language>
+        <managingEditor>obellerino@alumnat.copernic.cat (Oscar Bellerino)</managingEditor>
+        <skipDays>
+            <day>Friday</day>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>17</hour>
+            <hour>18</hour>
+            <hour>19</hour>
+            <hour>20</hour>
+            <hour>21</hour>
+            <hour>22</hour>
+            <hour>23</hour>
+            <hour>00</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+            <hour>6</hour>
+            <hour>7</hour>
+            <hour>8</hour>
+        </skipHours>
+        <item>
+        <title><![CDATA[<h2>Furius Baco</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/atraccions/furius-baco</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/7137d2d8dc5408cd49f6484addff44b442cd1749b31e3ba3c5abfd86ca4a5f59.jpg">
+              A Furius Baco, un geni prepara la seva nova màquina de recollir raïm. Però si el mico que l’ajuda s’equivoca de palanca, aquest artefacte esdevindrà una llançadora totalment descontrolada.
+              Una llançadora increïble que posa a prova els més agosarats i accelera de 0 a 135 km/h en tan sols 3 segons. Durant el recorregut de vertigen llisca gairebé tocant el terra, travessa tanques, túnels i fins i tot frega l’aigua del llac de Mediterrània..]]>
+            </description>
+            <category>PortAventura Park. Mediterrània/Atracció forta</category>
+            <guid>https://www.portaventuraworld.com/ca/atraccions/furius-baco</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Tutuki Splash</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/atraccions/tutuki-splash</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/7ff41f8d1f1cbf5d1733942a0bf8fab9b8764fb03316fbc8138f51a90b06f84e.jpg">
+              Les illes polinèsies, situades al Pacífic, no són tan tranquil·les com suggereixen les seves platges de fina sorra blanca. Enmig de la selva de Polynesia de PortAventura —on tan sols saben arribar els aborígens—, descansa una de les forces més devastadores de la natura: un terrible volcà amb ganes de despertar-se de la seva llarga letargia.]]>
+            </description>
+            <category>PortAventura Park. Polynesia/Atracció moderada</category>
+            <guid>https://www.portaventuraworld.com/ca/atraccions/tutuki-splash</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Dragon Khan</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/atraccions/dragon-khan</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/7846383b2ba32748f504f804411a708259250724ebed47263d38e627442c4fbb.jpg">
+              Diu la llegenda que l’orgullós príncep Hu va intentar destronar l’emperador, però que va fracassar en l’intent. Com a càstig, els savis déus el van convertir en un gran drac i el van condemnar a rodar eternament sense rumb.
+              L’atracció Dragon Khan de PortAventura comença amb un gran descens, seguit de vuit loopings, que recorreràs en 69 segons a una velocitat màxima de 110 km/h.]]>
+            </description>
+            <category>PortAventura Park: China/Atracció forta</category>
+            <guid>https://www.portaventuraworld.com/ca/atraccions/dragon-khan</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[<h2>Hurakan Condor</h2>]]></title>
+            <link>https://www.portaventuraworld.com/ca/atraccions/hurakan-condor</link>
+            <description><![CDATA[<img src="https://media.portaventuraworld.com/mediaManager/image/6f5aea65be2089605f5b17e9f424cfb62110c1cb1a94b407945f85d2cda84f79.jpg?tx=ar_2.00,c_crop/w_983,h_499,c_fit">
+              Quan arribis a l’àrea de México de PortAventura, veuràs una gran torre de més de 100 metres d’alt que converteixen Hurakan Condor en l’atracció més imponent del parc. El déu Huracan alliberarà tota la seva ràbia sobre els aventurers intrèpids que gosin pujar-hi i descobrir les sensacions que els ha preparat.]]>
+            </description>
+            <category>PortAventura Park: México/Atracció forta</category>
+            <guid>https://www.portaventuraworld.com/ca/atraccions/hurakan-condor</guid>
+            <author>obellerino@alumnat.copernic.cat (Oscar Bellerino)</author>
+            <pubDate>Fri, 17 Feb 2023 19:00:00 +0100</pubDate>
+        </item>
+    </channel>
+
+</rss>  
