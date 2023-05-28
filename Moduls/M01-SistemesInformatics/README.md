@@ -1,4 +1,4 @@
-M01-SistemesInformàtics
+M01 - Sistemes Informàtics
 
 - [UF1](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M01-SistemesInformatics/UF1)
 - [UF2](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M01-SistemesInformatics/UF2)
