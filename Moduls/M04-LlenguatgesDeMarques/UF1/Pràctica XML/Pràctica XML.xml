@@ -1,0 +1,481 @@
+Práctica UF1
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tokio_2020>
+    <edició id="XXXII" país="Tokio" web="https://olympics.com/tokyo-2020/es/"/>
+    <participants paisos="205" esportistes="11.326"/>
+    <data inici="23/07/2021" fi="08/08/2020"/>
+    <seus_no_esportives>
+        <seu nom="Estadi Olímpic de Tokio" ciutat="Tokio" funcionalitats="Cerimonia d'obertura i clausura"/>
+        <seu nom="Hotel Imperial" ciutat="Tokio" funcionalitat="125ª Sesió del Comité Olímpic Internacional (COI)"/>
+        <seu nom="Harumi Futō" ciutat="Tokio" funcionalitat="La seu on s'allotgen els atletes"/>
+        <seu nom="Tokyo Big Sight" ciutat="Tokio" funcionalitats="Servei de cobertura de medis, base de despatx d'informació i llar de periodisteis internacionals"/>
+    <seus_no_esportives/>
+        <!-- Com només s'ha d'indicar una dada en cada apartat, per reduïr línies s'ha indicat tot com atributs-->
+    <seus_esportives>
+        <seu nom ="Plaza Deportiva Musashino Forest" ciutat="Tokio" capacitat="10.000 espectadors"/>
+        <esport nom="Bádminton" any="1992" data_inici="24/07/2021" data_final="02/08/2021"/>
+        
+        <categoria nom="Masculí individual" dia="02/08/2021" hora="14:50"/>
+
+        <medalla>Or</medalla>
+        <pais>Dinamarca</pais>
+        <atletes>Viktor Axelsen</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>República Popular China</pais>
+        <atletes>Chen Long</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Indonesia</pais>
+        <atletes>Anthony Sinisuka Ginting</atletes>
+
+        <categoria nom="Masculí dobles" dia="31/07/2021" hora="10:30"/>
+
+        <medalla>Or</medalla>
+        <pais>China Taipéi</pais>
+        <atletes>
+        Lee Yang
+        Wang Chi-Lin
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>República Popular China</pais>
+        <atletes>
+        Li Junhui
+        Liu Yuchen
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Malasia</pais>
+        <atletes>
+        Aaron Chia
+        Soh Wooi Yik
+        </atletes>
+
+        <categoria nom="Femení individual" dia="01/07/2021" hora="10:30"/>
+        
+        <medalla>Or</medalla>
+        <pais>República Popular China</pais>
+        <atletes>Chen Yufei</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>China Taipéi</pais>
+        <atletes>Tai Tzu-Ying</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>India</pais>
+        <atletes>Pusarla Sindhu</atletes>
+
+        <categoria nom="Femení dobles" dia="02/08/2021" hora="10:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Indonesia</pais>
+        <atletes>
+        Greysia Polii
+        Apriyani Rahayu
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>República Popular China</pais>
+        <atletes>
+        Chen Qingchen
+        Jia Yifan
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Corea del Sur</pais>
+        <atletes>
+        Kim So-Yeong
+        Kong Hee-Yong
+        </atletes>
+
+        <categoria nom="Mixta dobles" dia="30/07/2021" hora="12:30"/>
+
+        <medalla>Or</medalla>
+        <pais>República Popular China</pais>
+        <atletes>
+        Wang Yilyu
+        Huang Dongping
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>República Popular China</pais>
+        <atletes>
+        Zheng Siwei
+        Huang Yaqiong
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Japón</pais>
+        <atletes>
+        Yuta Watanabe
+        Arisa Higashino
+        </atletes>
+
+        <seu nom ="Saitama Super Arena" ciutat="Tokio" capacitat="37.000 espectadors"/>
+        <esport nom="Bàsquet" any="1936" data_inici="25/07/2021" data_final="08/08/2021"/>
+
+        <categoria nom="Masculí" dia="07/08/2021" hora="11:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Estats Units</pais>
+        <atletes>
+        Damian Lillard 
+        Zach LaVine 
+        Jrue Holiday 
+        Devin Booker 
+        Khris Middleton 
+        Jayson Tatum 
+        Keldon Johnson 
+        Jerami Grant 
+        Kevin Durant 
+        Draymond Green 
+        Bam Adebayo 
+        JaVale McGee
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>França</pais>
+        <atletes>
+        Andrew Albicy
+        Nicolas Batum
+        Nando De Colo
+        Moustapha Fall
+        Evan Fournier
+        Rudy Gobert
+        Thomas Heurtel
+        Timothe Luwawu-Cabarrot
+        Petr Cornelie
+        Frank Ntilikina
+        Vincent Poirier
+        Guerschon Yabusele
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Australia</pais>
+        <atletes>
+        Chris Goulding
+        Patty Mills
+        Joshua Benjamin Green
+        Joe Ingles
+        Matthew Dellavedova
+        Nathan Sobey
+        Matisse Thybulle
+        Dante Exum
+        Aaron Baynes
+        Jock Landale
+        Duop Thomas Reath 
+        Nic Kay
+        </atletes>
+        
+        <categoria nom="Masculí bàsquet 3x3" dia="28/07/2021" hora="11:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Letonia</pais>
+        <atletes>
+        Agnis Čavars
+        Edgars Krūmiņš
+        Kārlis Lasmanis
+        Nauris Miezis
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>
+        Ilia Karpenkov
+        Kiril Pisklov
+        Stanislav Sharov
+        Alexandr Zuyev
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Serbia</pais>
+        <atletes>
+        Dušan Domović Bulut
+        Dejan Majstorović
+        Aleksandar Ratkov
+        Mihailo Vasić
+        </atletes>
+
+        <categoria nom="Femení" dia="08/07/2021" hora="12:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Estats Units</pais>
+        <atletes>
+        Diana Taurasi
+        Sue Bird
+        Sylvia Fowles
+        Tina Charles
+        Brittney Griner
+        Breanna Stewart
+        Jewell Loyd
+        A'ja Wilson
+        Ariel Atkins
+        Napheesa Collier
+        Skylar Diggins-Smith
+        Chelsea Grey
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Japó</pais>
+        <atletes>
+        Moeko Nagaoka
+        Maki Takada
+        Naho Miyoshi
+        Rui Machida
+        Nako Motohashi
+        Nanako Todo
+        Saki Hayashi
+        Evelyn Mawuli
+        Saori Miyazaki
+        Yuki Miyazawa
+        Himawari Akaho
+        Monica Okoy
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>França</pais>
+        <atletes>
+        Alexia Chartereau
+        Héléna Ciak
+        Alix Duchet
+        Marine Fauthoux
+        Sandrine Gruda
+        Marine Johannès
+        Sarah Michel
+        Endéné Miyem
+        Iliana Rupert
+        Diandra Tchatchouang
+        Valériane Vukosavljević
+        Gabby Williams
+        </atletes>
+
+        <categoria nom="Femení 3x3" dia="28/07/2021" hora="13:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Estats Units</pais>
+        <atletes>
+        Stefanie Dolson
+        Allisha Gray
+        Kelsey Plum
+        Jacquelin Young
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>
+        Yevgueniya Frolkina
+        Olga Frolkina
+        Yuliya Kozik
+        Anastasiya Logunova
+        </atletes>>
+
+        <medalla>Bronze</medalla>
+        <pais>República Popular China</pais>
+        <atletes>
+        Wan Jiyuan
+        Wang Lili
+        Yang Shuyu
+        Zhang Zhiting
+        </atletes>
+        
+        <seu nom ="Centre de Gimnàstica d'Ariake" ciutat="Tokio" capacitat="12.000 espectadors"/>
+        <esport nom="Gimnàstica rítmica" any="1984" data_inici="24/07/2021" data_final="08/08/2021"/>
+
+        <categoria nom="Concurs complet grupal" dia="08/08/2021" hora="13:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Bulgaria</pais>
+        <atletes>
+        Malden Radukanova
+        Erika Zafirova
+        Simona Dyankova
+        Stefani Kiryakova
+        Laura Traets
+        </atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>
+        Anastasia Bliznyuk
+        Angelina Shkatova
+        Anastasiia Maksimova
+        Alisa Tishchenko
+        Anastasiia Tatareva
+        </atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Italia</pais>
+        <atletes>
+        Daniela Mogurean
+        Agnese Duranti
+        Martina Santandrea
+        Alessia Maurelli
+        Martina Centofanti
+        </atletes>
+
+        <categoria nom="Concurs complet individual" dia="07/08/2021" hora="12:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Israel</pais>
+        <atletes>Linoy Ashram</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>Dina Averina</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Bielorrusia</pais>
+        <atletes>Alina Harnasko</atletes>
+
+        <seu nom ="Makuhari Messe" ciutat="Tokio" capacitat="6.000 espectadors"/>
+        <esport nom="Taekwondo" any="1988" data_inici="24/07/2021" data_final="27/07/2021"/>
+
+        <categoria nom="+67 kg femení" data="27/07/2021" hora="16:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Serbia</pais>
+        <atletes>Milica Mandic</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>República de Corea</pais>
+        <atletes>Dabin Lee</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>França</pais>
+        <atletes>Althea Laurin</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Regne Unit</pais>
+        <atletes>Bianca Walkden</atletes>
+
+        <categoria nom="+80 kg masculí" data="27/07/2021" hora="16:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>Vladislav Larin</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Antiga República Yugoslava de Macedonia</pais>
+        <atletes>Dejan Georgievski</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Cuba</pais>
+        <atletes>Rafael Alba Castillo</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>República de Corea</pais>
+        <atletes>Kyo Don In</atletes>
+
+        <categoria nom="-49 kg femení" data="24/07/2021" hora="14:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Tailandia</pais>
+        <atletes>Panipak Wongpattanakit</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Espanya</pais>
+        <atletes>Adriana Cerezo Iglesias</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Israel</pais>
+        <atletes>Abishag Semberg</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Serbia</pais>
+        <atletes>Tijana Bogdanovic</atletes>
+
+        <categoria nom="-57 kg femení" data="25/07/2021" hora="11:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Estats Units d'Amèrica</pais>
+        <atletes>Anastasija Zolotic</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>Tatiana Kudashova</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>China Taipei</pais>
+        <atletes>Chia-Ling Lo</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Turquia</pais>
+        <atletes>Hatice Kubra Ilgun</atletes>
+
+        <categoria nom="-58 kg masculí" data="24/07/2021" hora="12:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Italia</pais>
+        <atletes>Vito Dell'aquila</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Tunísia</pais>
+        <atletes>Mohamed Khalil Jendoubi</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>República de Corea</pais>
+        <atletes>Jun Jang</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>Mikhail Artamonov</atletes>
+
+        <categoria nom="-67 kg femení" data="26/07/2021" hora="12:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Croàcia</pais>
+        <atletes>Matea Jelic</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Regne Unit</pais>
+        <atletes>Lauren Williams<atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Costa de Marfil</pais>
+        <atletes>Ruth Marie Christelle Gbagbi</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Egipte</pais>
+        <atletes>Hedaya Wahba</atletes>
+
+        <categoria nom="-68 kg masculí" data="25/07/2021" hora="13:00"/>
+
+        <medalla>Or</medalla>
+        <pais>Uzbekistan</pais>
+        <atletes>Ulugbek Rashitov</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Regne Unit</pais>
+        <atletes>Bradly Sinden</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>República Popular China</pais>
+        <atletes>Shuai Zhao</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Turquia</pais>
+        <atletes>Hakan Recber</atletes>
+
+        <categoria nom="-80 kg masculí" data="26/07/2021" hora="13:30"/>
+
+        <medalla>Or</medalla>
+        <pais>Comité Olímpic Rus (ROC)</pais>
+        <atletes>Maksim Khramtcov</atletes>
+
+        <medalla>Plata</medalla>
+        <pais>Jordània</pais>
+        <atletes>Saleh Elsharabaty</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Croàcia</pais>
+        <atletes>Toni Kanaet</atletes>
+
+        <medalla>Bronze</medalla>
+        <pais>Egipte</pais>
+        <atletes>Seif Eissa</atletes>
+        <!-- Les dades que es repeteixen són atributs que tenen la funció de capçalera i la resta per blocs per tenir-ho millor ordenat de 
+        manera pràctica i a la vista-->
+    </seus_esportives> 
+</tokio_2020>

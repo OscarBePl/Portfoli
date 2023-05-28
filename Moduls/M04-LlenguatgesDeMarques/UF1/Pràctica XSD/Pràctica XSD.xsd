@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="olimpiada">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="edicio" fixed="XXXII" minOccurs="1"/>
+        <xs:element name="pais" fixed="Japó" minOccurs="1"/>
+        <xs:element name="web" fixed="https://olympics.com/tokyo-2020/es/" minOccurs="1"/>
+        <xs:element name="participants">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="paisos" type="comptador"/>
+              <xs:element name="esportistes" type="comptador"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="data">
+          <xs:complexType>
+            <xs:attribute name="inici" type="xs:date"/>
+            <xs:attribute name="fi" type="xs:date"/>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="seus" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="seu" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ciutat" type="xs:string" minOccurs="1"/>
+                    <xs:element name="capacitat" type="comptador" minOccurs="0"/>
+                    <xs:element name="esport" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="any" type="any"/>
+                          <xs:element name="data_inici" type="xs:date"/>
+                          <xs:element name="data_final" type="xs:date"/>
+                          <xs:element name="categoria" maxOccurs="unbounded">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="data" type="xs:date"/>
+                                <xs:element name="hora" type="xs:time"/>
+                                <xs:element name="sexe">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="medalla" maxOccurs="unbounded">
+                                        <xs:complexType mixed="true">
+                                          <xs:sequence>
+                                            <xs:element name="pais" type="xs:string"/>
+                                            <xs:element name="atletes" type="xs:string"/>
+                                          </xs:sequence>
+                                          <xs:attribute name="id" type="medalla" use="required"/>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                    <xs:attribute name="id" type="sexe" use="required"/>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                              <xs:attribute name="nom" type="xs:string" use="required"/>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="nom" type="xs:string" use="required"/>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="funcionalitats" type="xs:string" minOccurs="0"/>
+                  </xs:sequence>
+                  <xs:attribute name="nom" type="xs:string" use="required"/>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="competicions" type="competicions" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="id" fixed="Tokio 2020" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+<xs:simpleType name="comptador">
+    <xs:restriction base="xs:integer">
+        <xs:minInclusive value="0"/>
+        <xs:maxInclusive value="38000"/>
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="any">
+    <xs:restriction base="xs:integer">
+        <xs:pattern value="\d{4}"/>
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="sexe">
+    <xs:restriction base="xs:string">
+        <xs:enumeration value="F"/>
+        <xs:enumeration value="M"/>
+        <xs:enumeration value="Mix"/>
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="medalla">
+    <xs:restriction base="xs:string">
+        <xs:enumeration value="Or"/>
+        <xs:enumeration value="Plata"/>
+        <xs:enumeration value="Bronze"/>
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:simpleType name="competicions">
+    <xs:restriction base="xs:string">
+        <xs:pattern value="Si"/>
+        <xs:pattern value="No"/>
+    </xs:restriction>
+</xs:simpleType>
+
+</xs:schema>
