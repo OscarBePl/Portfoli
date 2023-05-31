@@ -1,1 +1,2 @@
-- [Projecte Pla d'Empresa]()
+- [Projecte Pla d'Empresa](https://github.com/OscarBePl/Portfoli/blob/main/Moduls/M13-EiE/Pla%20d'Empresa/Pla%20Empresa%20Oscar%20Bellerino%20i%20Marc%20Crist%C3%B3bal.pdf)
+- [Presentació](https://github.com/OscarBePl/Portfoli/blob/main/Moduls/M13-EiE/Pla%20d'Empresa/Presentaci%C3%B3%20Pla%20Empresa%20Oscar%20Bellerino%20i%20Marc%20Crist%C3%B3bal.pptx)
