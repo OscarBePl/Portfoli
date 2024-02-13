@@ -13,3 +13,7 @@ Els mòduls que he fet són:
 - [M04: Llenguatges de Marques](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M04-LlenguatgesDeMarques)
 - [M12: Formació i Orientació Laboral](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M12-FOL)
 - [M13: Empresa i Iniciativa Emprenedora](https://github.com/OscarBePl/Portfoli/tree/main/Moduls/M13-EiE)
+
+Els projectes que he fet són:
+- [Projecte 1: "Playwave" Reproductor MP3](https://gitlab.com/mp3project-group3/playwave)
+- [Projecte 2: Activities Management ERP](https://gitlab.com/project2team2/activities-management-erp)
